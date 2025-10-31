@@ -1,0 +1,20 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- کوه -->
+    <path
+        android:fillColor="@color/primary_color"
+        android:pathData="M12,2L2,20h20L12,2zM12,6.5l5.5,9.5h-11L12,6.5z" />
+
+    <!-- فلش بالا برای ارتفاع -->
+    <path
+        android:strokeColor="@color/primary_color"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="@android:color/transparent"
+        android:pathData="M12,14v-6M10,10l2,-2l2,2" />
+</vector>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- رنگ‌های اصلی -->
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+
+    <!-- رنگ‌های متنی -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="hint_color">#9E9E9E</color>
+
+    <!-- رنگ‌های کارت و پس‌زمینه -->
+    <color name="card_background">#F5F5F5</color>
+    <color name="weather_card_bg">#FFFFFF</color>
+    <color name="background_light">#FAFAFA</color>
+
+    <!-- رنگ‌های مخصوص آب و هوا -->
+    <color name="sunrise_color">#FF9800</color>
+    <color name="sunset_color">#F44336</color>
+    <color name="humidity_color">#03A9F4</color>
+    <color name="wind_color">#4CAF50</color>
+
+    <!-- رنگ‌های وضعیت -->
+    <color name="success_color">#4CAF50</color>
+    <color name="error_color">#F44336</color>
+    <color name="warning_color">#FF9800</color>
+
+    <!-- رنگ‌های سایه و border -->
+    <color name="shadow_color">#1A000000</color>
+    <color name="border_color">#E0E0E0</color>
+
+    <!-- رنگ‌های گرادینت برای پس‌زمینه -->
+    <color name="gradient_start">#2196F3</color>
+    <color name="gradient_end">#03A9F4</color>
+    <color name="gradient_night_start">#0D47A1</color>
+    <color name="gradient_night_end">#1976D2</color>
+
+    <color name="good_green">#4CAF50</color>
+    <color name="moderate_yellow">#FFEB3B</color>
+    <color name="unhealthy_orange">#FF9800</color>
+    <color name="unhealthy_red">#F44336</color>
+    <color name="very_unhealthy_purple">#9C27B0</color>
+    <color name="hazardous_maroon">#7E0023</color>
+    <color name="white_30">#30FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+
+</resources>

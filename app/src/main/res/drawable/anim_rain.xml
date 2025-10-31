@@ -1,0 +1,4 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_rain_vector">
+    <target android:name="drops" android:animation="@animator/rain_fall" />
+</animated-vector>

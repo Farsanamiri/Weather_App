@@ -1,0 +1,4 @@
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ic_sun_vector">
+    <target android:name="rotation" android:animation="@animator/sun_spin" />
+</animated-vector>
